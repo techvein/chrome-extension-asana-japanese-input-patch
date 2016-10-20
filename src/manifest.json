@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+
+  "name": "asana.com 日本語入力バグ修正パッチ",
+  "description": "asanaで日本語入力で挙動が怪しくなる問題を解決する非公式Chrome拡張です。",
+  "version": "1.0.0",
+
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "content_scripts": [{
+    "matches": [
+    	"https://app.asana.com/"
+    ],
+   "js":["main.js"],
+   "run_at": "document_idle"
+  }],
+  "permissions": [
+    	"https://app.asana.com/"
+  ]
+}
