@@ -20,5 +20,11 @@
   }],
   "permissions": [
     	"https://app.asana.com/"
-  ]
+  ],
+
+  "applications": {
+    "gecko": {
+      "id": "support@tech-vein.com"
+    }
+  }
 }
