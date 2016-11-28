@@ -1,0 +1,9 @@
+{
+
+  "appName": {
+    "message": "asana.com 日本語入力バグ修正パッチ"
+  },
+  "appDesc": {
+    "message": "asanaで日本語入力で挙動が怪しくなる問題を解決する非公式Chrome拡張です。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "asana.com (with Multi language IME) problem solution patch",
+    "description":"The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "This app resolve a problem in asana.com with MultiLanguage IME(like Japanese Google IME). The problem is like that asana makes double task when input enter key on task if Japanese language input is enabled. To use this plugin, you just install it and keep enable, without nothing to do anything else.",
+    "description":"The description of the application, displayed in the web store."
+  }
+}
